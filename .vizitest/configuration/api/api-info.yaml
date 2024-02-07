@@ -1,0 +1,13 @@
+---
+apiConfigurations:
+- name: "Play API"
+  specificationPath: null
+  servers:
+  - key: "development"
+    value: "http://localhost:33291/server/development"
+  headers:
+  - key: "x-auth-token"
+    value: "as8d76jhasd876jhHJJhashJHG"
+  cookies: []
+  security: []
+  UID: "1d2759a1-9110-4f6e-90bc-015cbf222e2f"
